@@ -88,7 +88,7 @@ video {
     padding: 0;
     border: 0;
     font-size: 100%;
-    font: inherit;
+    font: 'Lato', sans-serif;
     vertical-align: baseline;
 }
 
@@ -154,19 +154,14 @@ h2,
 h3,
 h4,
 h5 {
-    font-family: 'Bangers', cursive;
+    font-family: 'Sriracha', cursive;
+    ;
     letter-spacing: 1px;
     margin-bottom: 15px;
 }
 
 
 /* Your code starts here! */
-
-.div1,
-.logo {
-    display: inline-block;
-    padding: auto 2px;
-}
 
 h1,
 .main {
